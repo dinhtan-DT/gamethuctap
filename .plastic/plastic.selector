@@ -1,0 +1,4 @@
+repository "gamethuctap/gamethuctap@18968327399009@cloud"
+  path "/"
+    br "/main"
+    co "/main"
