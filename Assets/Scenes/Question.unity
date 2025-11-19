@@ -372,13 +372,67 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   questions:
-  - questionText: "con g\xE0 m\u1EA5y ch\xE2n"
+  - questionText: "M\u1ED7i g\xF3c c\u1EE7a tam gi\xE1c \u0111\u1EC1u bao nhi\xEAu
+      \u0111\u1ED9"
+    answers:
+    - 30
+    - 45
+    - 60
+    - 75
+    correctAnswerIndex: 60
+  - questionText: "T\u1ED5ng 3 g\xF3c c\u1EE7a m\u1ED9t tam gi\xE1c b\u1EB1ng bao
+      nhi\xEAu \u0111\u1ED9"
+    answers:
+    - 90
+    - 180
+    - 270
+    - 360
+    correctAnswerIndex: 180
+  - questionText: "Nghi\u1EC7m c\u1EE7a ph\u01B0\u01A1ng tr\xECnh 2x - 4 = 0 l\xE0:"
     answers:
     - 1
     - 2
     - 3
     - 4
-    correctAnswerIndex: 1
+    correctAnswerIndex: 2
+  - questionText: "Chu vi h\xECnh vu\xF4ng c\xF3 \u0111\u1ED9 d\xE0i c\u1EA1nh b\u1EB1ng
+      4 l\xE0:"
+    answers:
+    - 8
+    - 12
+    - 16
+    - 20
+    correctAnswerIndex: 3
+  - questionText: "Di\u1EC7n t\xEDch tam gi\xE1c vu\xF4ng c\xF3 2 c\u1EA1nh g\xF3c
+      vu\xF4ng l\u1EA7n l\u01B0\u1EE3t l\xE0 4 v\xE0 5 l\xE0:"
+    answers:
+    - 16
+    - 20
+    - 10
+    - 40
+    correctAnswerIndex: 3
+  - questionText: "T\u1EADp s\u1ED1 nguy\xEAn to\xE1n h\u1ECDc k\xED hi\u1EC7u l\xE0
+      g\xEC:"
+    answers:
+    - N
+    - R
+    - Z
+    - N*
+    correctAnswerIndex: 0
+  - questionText: 
+    answers:
+    - 2
+    - 4
+    - 5
+    - 1
+    correctAnswerIndex: 3
+  - questionText: "con ch\xF3 c\xF3 m\u1EA5y \u0111u\xF4i"
+    answers:
+    - 2
+    - 4
+    - 5
+    - 1
+    correctAnswerIndex: 3
   - questionText: "con ch\xF3 c\xF3 m\u1EA5y \u0111u\xF4i"
     answers:
     - 2
@@ -422,8 +476,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 953.22174, y: 108.40291}
-  m_SizeDelta: {x: 91.9336, y: 206.8659}
+  m_AnchoredPosition: {x: 540, y: 115}
+  m_SizeDelta: {x: 100.6904, y: 46.788}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &179398217
 MonoBehaviour:
@@ -25119,8 +25173,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 317.9597, y: 108.40291}
-  m_SizeDelta: {x: 91.9336, y: 206.8659}
+  m_AnchoredPosition: {x: 245.0503, y: 115}
+  m_SizeDelta: {x: 114.3072, y: 46.788}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1186612957
 MonoBehaviour:
@@ -25576,7 +25630,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 531.9444, y: 330.46954}
+  m_AnchoredPosition: {x: 306, y: 217}
   m_SizeDelta: {x: 285.2954, y: 116.2927}
   m_Pivot: {x: 0.49999997, y: 0.50000536}
 --- !u!114 &1243542094
@@ -25850,8 +25904,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 637.5833, y: 108.40291}
-  m_SizeDelta: {x: 91.9336, y: 206.8659}
+  m_AnchoredPosition: {x: 383.10065, y: 115}
+  m_SizeDelta: {x: 107.9978, y: 46.788}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1337626134
 MonoBehaviour:
@@ -26022,8 +26076,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 50.12677, y: 108.40291}
-  m_SizeDelta: {x: 91.9336, y: 206.8659}
+  m_AnchoredPosition: {x: 89.413, y: 115}
+  m_SizeDelta: {x: 115.6712, y: 46.7879}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1456051403
 MonoBehaviour:
@@ -26315,8 +26369,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 691.286, y: 522.9501}
-  m_SizeDelta: {x: 1043.3495, y: 401.01}
+  m_AnchoredPosition: {x: 357.13263, y: 229.48752}
+  m_SizeDelta: {x: 653.0149, y: 365.7408}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1529917662
 MonoBehaviour:
