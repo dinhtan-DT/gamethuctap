@@ -43,8 +43,14 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: "n\u1EC1n"
+    uniqueID: 2110214167
+    locked: 0
   - name: BackGround
     uniqueID: 2619214365
+    locked: 0
+  - name: "tr\xEAn backgroud"
+    uniqueID: 4128559215
     locked: 0
   - name: Ground
     uniqueID: 3696657993
